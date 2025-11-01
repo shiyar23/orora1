@@ -1,0 +1,40 @@
+[Wed Nov  1 20:44:40 2023] PHP 8.2.10 Development Server (http://0.0.0.0:8080) started
+[Wed Nov  1 20:44:43 2023] 127.0.0.1:56392 Accepted
+[Wed Nov  1 20:44:43 2023] 127.0.0.1:56392 [200]: GET /index.html
+[Wed Nov  1 20:44:43 2023] 127.0.0.1:56392 Closing
+[Wed Nov  1 20:45:31 2023] 127.0.0.1:59962 Accepted
+[Wed Nov  1 20:45:31 2023] 127.0.0.1:59962 [200]: GET /
+[Wed Nov  1 20:45:31 2023] 127.0.0.1:59962 Closing
+[Wed Nov  1 20:46:28 2023] 127.0.0.1:48124 Accepted
+[Wed Nov  1 20:46:28 2023] 127.0.0.1:48124 [200]: GET /
+[Wed Nov  1 20:46:28 2023] 127.0.0.1:48124 Closing
+[Wed Nov  1 20:46:28 2023] 127.0.0.1:48130 Accepted
+[Wed Nov  1 20:46:28 2023] 127.0.0.1:48130 [200]: GET /
+[Wed Nov  1 20:46:28 2023] 127.0.0.1:48130 Closing
+[Wed Nov  1 20:46:42 2023] 127.0.0.1:55064 Accepted
+[Wed Nov  1 20:46:42 2023] 127.0.0.1:55064 [200]: GET /
+[Wed Nov  1 20:46:42 2023] 127.0.0.1:55064 Closing
+[Wed Nov  1 20:46:49 2023] 127.0.0.1:48246 Accepted
+[Wed Nov  1 20:46:49 2023] 127.0.0.1:48246 [200]: GET /
+[Wed Nov  1 20:46:49 2023] 127.0.0.1:48246 Closing
+[Wed Nov  1 20:46:50 2023] 127.0.0.1:48256 Accepted
+[Wed Nov  1 20:46:50 2023] 127.0.0.1:48256 [200]: GET /css/main.css
+[Wed Nov  1 20:46:50 2023] 127.0.0.1:48266 Accepted
+[Wed Nov  1 20:46:50 2023] 127.0.0.1:48280 Accepted
+[Wed Nov  1 20:46:50 2023] 127.0.0.1:48256 Closing
+[Wed Nov  1 20:46:50 2023] 127.0.0.1:48266 [200]: GET /js/main.js
+[Wed Nov  1 20:46:50 2023] 127.0.0.1:48296 Accepted
+[Wed Nov  1 20:46:50 2023] 127.0.0.1:48280 [200]: GET /js/location.js
+[Wed Nov  1 20:46:50 2023] 127.0.0.1:48306 Accepted
+[Wed Nov  1 20:46:50 2023] 127.0.0.1:48296 [200]: GET /js/info.js
+[Wed Nov  1 20:46:50 2023] 127.0.0.1:48266 Closing
+[Wed Nov  1 20:46:50 2023] 127.0.0.1:48306 [200]: GET /js/warpspeed.min.js
+[Wed Nov  1 20:46:50 2023] 127.0.0.1:48280 Closing
+[Wed Nov  1 20:46:50 2023] 127.0.0.1:48296 Closing
+[Wed Nov  1 20:46:50 2023] 127.0.0.1:48306 Closing
+[Wed Nov  1 20:46:51 2023] 127.0.0.1:48316 Accepted
+[Wed Nov  1 20:46:51 2023] 127.0.0.1:48316 [200]: POST /php/info.php
+[Wed Nov  1 20:46:51 2023] 127.0.0.1:48316 Closing
+[Wed Nov  1 20:47:02 2023] 127.0.0.1:50736 Accepted
+[Wed Nov  1 20:47:02 2023] 127.0.0.1:50736 [200]: POST /php/result.php
+[Wed Nov  1 20:47:02 2023] 127.0.0.1:50736 Closing
