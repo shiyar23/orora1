@@ -1,0 +1,102 @@
+Hit:1 http://packages.microsoft.com/repos/code stable InRelease
+Hit:2 http://kali.download/kali kali-rolling InRelease
+Hit:3 https://dl.google.com/linux/chrome/deb stable InRelease
+Hit:4 http://kali.download/kali kali-last-snapshot InRelease
+Hit:5 http://kali.download/kali kali-experimental InRelease
+Hit:6 http://kali.download/kali kali-bleeding-edge InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3 is already the newest version (3.10.5-3).
+python3-pip is already the newest version (22.2+dfsg-1).
+The following packages were automatically installed and are no longer required:
+  liba52-0.7.4 libcddb2 libdvbpsi10 libebml5 libev4 libfmt8 libgles2
+  libhttp-server-simple-perl libilmbase25 libixml10 liblerc3 liblirc-client0
+  libmad0 libmatroska7 libmpeg2-4 libopenexr25 libopenmpt-modplug1
+  libpoppler118 libprotobuf-lite23 libproxy-tools libpython3.9-minimal
+  libpython3.9-stdlib libresid-builder0c2a libsdl-image1.2 libsdl1.2debian
+  libsidplay2 libspatialaudio0 libsvtav1enc0 libupnp13 libvlc-bin libvlc5
+  libvlccore9 libvncclient1 libwebsockets16 libxcb-composite0 libxcb-xv0
+  python3-dataclasses-json python3-limiter python3-marshmallow-enum
+  python3-mypy-extensions python3-responses python3-spyse python3-token-bucket
+  python3-typing-inspect python3.9 python3.9-minimal vlc-bin vlc-data vlc-l10n
+  vlc-plugin-access-extra vlc-plugin-base vlc-plugin-notify vlc-plugin-qt
+  vlc-plugin-samba vlc-plugin-skins2 vlc-plugin-video-output
+  vlc-plugin-video-splitter vlc-plugin-visualization
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+php is already the newest version (2:8.1+92).
+php set to manually installed.
+The following packages were automatically installed and are no longer required:
+  liba52-0.7.4 libcddb2 libdvbpsi10 libebml5 libev4 libfmt8 libgles2
+  libhttp-server-simple-perl libilmbase25 libixml10 liblerc3 liblirc-client0
+  libmad0 libmatroska7 libmpeg2-4 libopenexr25 libopenmpt-modplug1
+  libpoppler118 libprotobuf-lite23 libproxy-tools libpython3.9-minimal
+  libpython3.9-stdlib libresid-builder0c2a libsdl-image1.2 libsdl1.2debian
+  libsidplay2 libspatialaudio0 libsvtav1enc0 libupnp13 libvlc-bin libvlc5
+  libvlccore9 libvncclient1 libwebsockets16 libxcb-composite0 libxcb-xv0
+  python3-dataclasses-json python3-limiter python3-marshmallow-enum
+  python3-mypy-extensions python3-responses python3-spyse python3-token-bucket
+  python3-typing-inspect python3.9 python3.9-minimal vlc-bin vlc-data vlc-l10n
+  vlc-plugin-access-extra vlc-plugin-base vlc-plugin-notify vlc-plugin-qt
+  vlc-plugin-samba vlc-plugin-skins2 vlc-plugin-video-output
+  vlc-plugin-video-splitter vlc-plugin-visualization
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  liba52-0.7.4 libcddb2 libdvbpsi10 libebml5 libev4 libfmt8 libgles2
+  libhttp-server-simple-perl libilmbase25 libixml10 liblerc3 liblirc-client0
+  libmad0 libmatroska7 libmpeg2-4 libopenexr25 libopenmpt-modplug1
+  libpoppler118 libprotobuf-lite23 libproxy-tools libpython3.9-minimal
+  libpython3.9-stdlib libresid-builder0c2a libsdl-image1.2 libsdl1.2debian
+  libsidplay2 libspatialaudio0 libsvtav1enc0 libupnp13 libvlc-bin libvlc5
+  libvlccore9 libvncclient1 libwebsockets16 libxcb-composite0 libxcb-xv0
+  python3-dataclasses-json python3-limiter python3-marshmallow-enum
+  python3-mypy-extensions python3-responses python3-spyse python3-token-bucket
+  python3-typing-inspect python3.9 python3.9-minimal vlc-bin vlc-data vlc-l10n
+  vlc-plugin-access-extra vlc-plugin-base vlc-plugin-notify vlc-plugin-qt
+  vlc-plugin-samba vlc-plugin-skins2 vlc-plugin-video-output
+  vlc-plugin-video-splitter vlc-plugin-visualization
+Use 'sudo apt autoremove' to remove them.
+The following NEW packages will be installed:
+  ssh
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 260 kB of archives.
+After this operation, 276 kB of additional disk space will be used.
+Get:1 http://kali.download/kali kali-rolling/main amd64 ssh all 1:9.0p1-1 [260 kB]
+Fetched 260 kB in 1s (379 kB/s)
+Selecting previously unselected package ssh.
+(Reading database ... 
+(Reading database ... 5%
+(Reading database ... 10%
+(Reading database ... 15%
+(Reading database ... 20%
+(Reading database ... 25%
+(Reading database ... 30%
+(Reading database ... 35%
+(Reading database ... 40%
+(Reading database ... 45%
+(Reading database ... 50%
+(Reading database ... 55%
+(Reading database ... 60%
+(Reading database ... 65%
+(Reading database ... 70%
+(Reading database ... 75%
+(Reading database ... 80%
+(Reading database ... 85%
+(Reading database ... 90%
+(Reading database ... 95%
+(Reading database ... 100%
+(Reading database ... 366925 files and directories currently installed.)
+Preparing to unpack .../ssh_1%3a9.0p1-1_all.deb ...
+Unpacking ssh (1:9.0p1-1) ...
+Setting up ssh (1:9.0p1-1) ...
+Requirement already satisfied: requests in /usr/lib/python3/dist-packages (2.27.1)
+WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
